@@ -1,0 +1,82 @@
+.navbar .nav-link {
+  text-transform: uppercase;
+  padding-right: 10px !important;
+  padding-left: 10px !important;
+  font-size: 14px;
+}
+.navbar .nav-item.active {
+  border-left: #444 3px solid;
+}
+.carousel-item {
+  height: 350px;
+}
+.carousel-imagine-1 {
+  background: url(../img/imagine1.jpg);
+  background-size: cover;
+}
+.carousel-imagine-2 {
+  background: url(../img/imagine2.jpg);
+  background-size: cover;
+}
+.carousel-imagine-3 {
+  background: url(../img/imagine3.jpg);
+  background-size: cover;
+}
+#stildeviata {
+  background: url(../img/stildeviata.jpg) !important;
+  position: relative;
+  min-height: 200px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-align: center;
+  color: white;
+}
+.dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+#video-play {
+  position: relative;
+  min-height: 200px;
+  background: url("../img/videobackground.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 0 -300px;
+  text-align: center;
+  color: #fff;
+}
+#video-play a {
+  color: #fff;
+}
+#footer {
+  background-color: black;
+}
+#header-pasiune {
+  background-image: url(../img/pasiune.jpg);
+  background-size: cover;
+}
+#head-pachete {
+  background-image: url(../img/dolari.jpg);
+  background-size: cover;
+  color: black;
+}
+
+#intrebare {
+  background-color: black;
+}
+#intrebare a {
+  color: white;
+}
+#contact-header {
+  background-image: url(../img/contact.jpg);
+  background-size: cover;
+}
+#ccc {
+  border: grey;
+  border-style: solid;
+  border-width: 1px;
+}
